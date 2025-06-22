@@ -1,4 +1,4 @@
-#  AgrBot: Agricultural Question Answering Bot
+#  AgriBot: Agricultural Question Answering Bot
 
 AgriBot is a domain-specific chatbot designed to answer questions related to agriculture. It leverages transformer-based language models to provide accurate and relevant responses using a fine-tuned QA model trained on an agriculture-focused dataset.
 
